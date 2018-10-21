@@ -1,0 +1,37 @@
+Source,Type,Target,Weight
+Анна Мария,Undirected,Дети,1
+Анна Мария,Undirected,Доктор Ранк,2
+Анна Мария,Undirected,Крогстад,2
+Анна Мария,Undirected,Нора,2
+Анна Мария,Undirected,Посыльный,1
+Анна Мария,Undirected,Служанка,2
+Анна Мария,Undirected,Фру Линне,2
+Анна Мария,Undirected,Хельмер,2
+Дети,Undirected,Доктор Ранк,1
+Дети,Undirected,Крогстад,1
+Дети,Undirected,Нора,1
+Дети,Undirected,Посыльный,1
+Дети,Undirected,Служанка,1
+Дети,Undirected,Фру Линне,1
+Дети,Undirected,Хельмер,1
+Доктор Ранк,Undirected,Крогстад,3
+Доктор Ранк,Undirected,Нора,3
+Доктор Ранк,Undirected,Посыльный,1
+Доктор Ранк,Undirected,Служанка,3
+Доктор Ранк,Undirected,Фру Линне,3
+Доктор Ранк,Undirected,Хельмер,3
+Крогстад,Undirected,Нора,3
+Крогстад,Undirected,Посыльный,1
+Крогстад,Undirected,Служанка,3
+Крогстад,Undirected,Фру Линне,3
+Крогстад,Undirected,Хельмер,3
+Нора,Undirected,Посыльный,1
+Нора,Undirected,Служанка,3
+Нора,Undirected,Фру Линне,3
+Нора,Undirected,Хельмер,3
+Посыльный,Undirected,Служанка,1
+Посыльный,Undirected,Фру Линне,1
+Посыльный,Undirected,Хельмер,1
+Служанка,Undirected,Фру Линне,3
+Служанка,Undirected,Хельмер,3
+Фру Линне,Undirected,Хельмер,3
